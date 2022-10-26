@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/khallan.myapp.git/static/css/main.d1ef17d5.css",
-    "main.js": "/khallan.myapp.git/static/js/main.33c7faf6.js",
-    "static/js/787.252c5a3f.chunk.js": "/khallan.myapp.git/static/js/787.252c5a3f.chunk.js",
-    "index.html": "/khallan.myapp.git/index.html",
-    "main.d1ef17d5.css.map": "/khallan.myapp.git/static/css/main.d1ef17d5.css.map",
-    "main.33c7faf6.js.map": "/khallan.myapp.git/static/js/main.33c7faf6.js.map",
-    "787.252c5a3f.chunk.js.map": "/khallan.myapp.git/static/js/787.252c5a3f.chunk.js.map"
+    "main.css": "/khallan.myapp/static/css/main.d1ef17d5.css",
+    "main.js": "/khallan.myapp/static/js/main.4d822517.js",
+    "static/js/787.252c5a3f.chunk.js": "/khallan.myapp/static/js/787.252c5a3f.chunk.js",
+    "index.html": "/khallan.myapp/index.html",
+    "main.d1ef17d5.css.map": "/khallan.myapp/static/css/main.d1ef17d5.css.map",
+    "main.4d822517.js.map": "/khallan.myapp/static/js/main.4d822517.js.map",
+    "787.252c5a3f.chunk.js.map": "/khallan.myapp/static/js/787.252c5a3f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d1ef17d5.css",
-    "static/js/main.33c7faf6.js"
+    "static/js/main.4d822517.js"
   ]
 }
