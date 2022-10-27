@@ -1,0 +1,2 @@
+body,div,html{margin:0;padding:0}.app{text-align:center}nav{grid-gap:10px;background:linear-gradient(90deg,#6e5efe,#43c99c);border-top:none;color:#fff;grid-template-columns:repeat(5,auto);margin:0;min-height:10vh}.nav-links,nav{align-items:center;display:flex;justify-content:space-around}.nav-links{float:right;list-style:none;width:40%}.nav-links:hover{background-color:#7ecc6ab1;border-radius:4px;transition:all .3s ease-in-out}
+/*# sourceMappingURL=main.576edd75.css.map*/
