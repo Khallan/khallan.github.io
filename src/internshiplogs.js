@@ -14,7 +14,8 @@ function Internshiplogs() {
       <br />
       <br />
       <b>October 28</b>
-      Today we had a meeting about Trolle, and what we are going to be doing on November 2. I begun the day by creating a very short list about what I am going ot say, this took about
+      <br />
+      Today we had a meeting about Trello, and what we are going to be doing on November 2. I begun the day by creating a very short list about what I am going ot say, this took about
       5 minutes of the time. I then did a lot of research on branches and how they work. I have created branches in myapp terminal and I think I have a good understanding of 
       what they are and how they work. I also learned how pull requests are and how they work. With branches and pull requests you can work on the same project with other people. 
       Each person creates there own branch and works on it by themselves then they merge their branches to the master and then all there changes are add to the file. This is what I spent 
