@@ -11,6 +11,9 @@ function Internshiplogs() {
       blank page. This is going to be temporarily blank. I am going to add a quick about me section on the first page so it is not empty. When you flip back and forth from
       the tabs the nav bar stays while underneath renders, thus saving time and energy. I also learned how to refresh a deployed react app. All in all a very successful day in
       my opinion.
+      <br /> 
+      <br /> 
+      Hello this is a new branch
       </p>
     </div>
   );
