@@ -31,6 +31,10 @@ function Internshiplogs() {
      fine. Another problem that occured today that is farmillar to me is the underline under the Navigation tasb will not remove, with text decorations, I have 
      decided to leave it for now. I then wanted to get started with my About Me page. I started it off but then I wanted to be creative and have it where you scroll
      to find out stuff. I just started it now so I do not have much. I then transfered all my previous internshiplogs to this new webpage.
+    <br />
+    <br />
+    <b>November 1 2022</b>
+
 
     </div>
   );
