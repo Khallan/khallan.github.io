@@ -12,10 +12,6 @@ function Internshiplogs() {
       blank page. This is going to be temporarily blank. I am going to add a quick about me section on the first page so it is not empty. When you flip back and forth from
       the tabs the nav bar stays while underneath renders, thus saving time and energy. I also learned how to refresh a deployed react app. All in all a very successful day in
       my opinion.
-      <br /> 
-      <br /> 
-      Hello this is a new branch
-      </p>
       <br />
       <br />
       <b>October 28</b>
@@ -34,12 +30,20 @@ function Internshiplogs() {
      When you hoverd your cursor over the buttons both the tabs would highlight, I don't know why this was happening because on my other code it works perfectly
      fine. Another problem that occured today that is farmillar to me is the underline under the Navigation tasb will not remove, with text decorations, I have 
      decided to leave it for now. I then wanted to get started with my About Me page. I started it off but then I wanted to be creative and have it where you scroll
-     to find out stuff. I just started it now so I do not have much. I then transfered all my previous internshiplogs to this new webpage.
+     to find out stuff. I just started it now so I do not have much. 
     <br />
     <br />
-    <b>November 1 2022</b>
-
-
+    <b>November 1</b>
+    <br />
+    At the beginning, Fabien and I worked on our presentation for tomorrow morning. We have written down and memorized so dot point for tomorrow. I then
+    begun my editing my code. I seemingly did not do anything to my code but it had a bug I could not find. I spent very long on this and I had to because I 
+    could not progress without it. Google did not help me because I did everything correct I just acceidentally deleted a closeing bracket from my function.
+    I had to get a second eye on this problem to see the solution. After I solved this problem with help. I then started to learn about API's, 
+    I also read up a little on GET requests. Then just like that the day was over.
+    <br />
+    <br />
+    <b>November 2</b>
+    <br />
     </div>
   );
 }
