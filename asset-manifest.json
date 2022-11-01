@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/khallan.myapp/static/css/main.576edd75.css",
-    "main.js": "/khallan.myapp/static/js/main.24977276.js",
+    "main.css": "/khallan.myapp/static/css/main.0229c376.css",
+    "main.js": "/khallan.myapp/static/js/main.e4d0f7b1.js",
     "static/js/787.252c5a3f.chunk.js": "/khallan.myapp/static/js/787.252c5a3f.chunk.js",
     "index.html": "/khallan.myapp/index.html",
-    "main.576edd75.css.map": "/khallan.myapp/static/css/main.576edd75.css.map",
-    "main.24977276.js.map": "/khallan.myapp/static/js/main.24977276.js.map",
+    "main.0229c376.css.map": "/khallan.myapp/static/css/main.0229c376.css.map",
+    "main.e4d0f7b1.js.map": "/khallan.myapp/static/js/main.e4d0f7b1.js.map",
     "787.252c5a3f.chunk.js.map": "/khallan.myapp/static/js/787.252c5a3f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.576edd75.css",
-    "static/js/main.24977276.js"
+    "static/css/main.0229c376.css",
+    "static/js/main.e4d0f7b1.js"
   ]
 }
