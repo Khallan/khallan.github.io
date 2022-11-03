@@ -44,6 +44,8 @@ function Internshiplogs() {
     <br />
     <b>November 2</b>
     <br />
+    Today, I began with reasearching API, I now have an understanding of the concept. Then we talked about a new project where you want me to create a new
+    tab on North P&D website. I began this task by downloading your code onto my computer and going through your code.
     </div>
   );
 }
