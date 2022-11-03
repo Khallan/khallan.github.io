@@ -45,7 +45,9 @@ function Internshiplogs() {
     <b>November 2</b>
     <br />
     Today, I began with reasearching API, I now have an understanding of the concept. Then we talked about a new project where you want me to create a new
-    tab on North P&D website. I began this task by downloading your code onto my computer and going through your code.
+    tab on North P&D website. I began this task by downloading your code onto my computer and going through your code. I then created a branch named "our-expertise-branch".
+    I then tired to run the local host but got an error message and googled how to fix it. I tried many things but none of them worked, at least I think
+    I will try again tomorrow. I then put a pause on "Our expertise" project and then worked on fixing my website "Error 404" message.
     </div>
   );
 }
