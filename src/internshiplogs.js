@@ -145,7 +145,11 @@ function Internshiplogs() {
         variable declared. It was odd because in the json file I did have it declared. I solved this issue by re-downloading npm intstall, this did not work but 
         when I add npm install -f, it then forced the download and then I could finally run the North P&D local host. I then was told to fix another outstanding
         issue I had from my perosnal website. The issue was, when you clicked on a tab in the navigation bar it properly took you to the correct page, but when 
-        you refreshed the page you would get an error 404 message. 
+        you refreshed the page you would get an error 404 message. To fix this I added a base name and 404.html page, I followed a tutorial to do so. The tutorial 
+        must have been out dated because some of the steps were wrong and ultimately made my program worse and had more bugs. I asked Fabien how to fix this and he said
+        to revert the var pathSegmentsToKeep = 0; from  1 back to 0. This fixed my issue. For the remainder of the day I went back to the Our Expertise task and worked 
+        on that.
+
         <br />
         <br />
 
