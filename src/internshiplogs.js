@@ -137,6 +137,18 @@ function Internshiplogs() {
         I then tired to run the local host but got an error message and googled how to fix it. I tried many things but none of them worked, at least I think
         I will try again tomorrow. I then put a pause on "Our expertise" project and then worked on fixing my website "Error 404" message. Once I fixed that issue
         I then moved over all my old Internship logs to my this website. 
+        <br />
+        <br />
+        <b>November 4</b>
+        <br />
+        I begun the day trying to figure out a bug I had from yesterday. When I used npm start, I would get an error message say that I did not have "react-start"
+        variable declared. It was odd because in the json file I did have it declared. I solved this issue by re-downloading npm intstall, this did not work but 
+        when I add npm install -f, it then forced the download and then I could finally run the North P&D local host. I then was told to fix another outstanding
+        issue I had from my perosnal website. The issue was, when you clicked on a tab in the navigation bar it properly took you to the correct page, but when 
+        you refreshed the page you would get an error 404 message. 
+        <br />
+        <br />
+
     </div>
   );
 }
