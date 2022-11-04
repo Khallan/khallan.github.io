@@ -7,7 +7,7 @@ import Aboutme from './aboutme';
 
 function app() {
   return (
-    <Router basename='/'>
+    <Router basename='/app'>
       <div className='App'>
         <Nav />
         <Aboutme />
