@@ -7,7 +7,7 @@ import Aboutme from './aboutme';
 
 function app() {
   return (
-    <Router basename='/khallan.github.io'>
+    <Router basename='/'>
       <div className='App'>
         <Nav />
         <Aboutme />
