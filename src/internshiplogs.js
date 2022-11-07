@@ -149,9 +149,17 @@ function Internshiplogs() {
         must have been out dated because some of the steps were wrong and ultimately made my program worse and had more bugs. I asked Fabien how to fix this and he said
         to revert the var pathSegmentsToKeep = 0; from  1 back to 0. This fixed my issue. For the remainder of the day I went back to the Our Expertise task and worked 
         on that.
-
         <br />
         <br />
+        <b>November 7</b>
+        <br />
+        I was assigned a new task in Trello, it was to change the Address at the contact info area of the page. I corrected the address then we had a meeting about
+        what I have been doing today. I then went back to the North P&D code to start on the Our Expertise page, we then had another call where you explained branches 
+        and everthing we need to know when beginning work on your website. I made a mistake when getting North p&D onto VS and had to start over again, which wasn't a 
+        big deal as I did not have much changed to it, however I had the same starting issue as I did last week, I had to fix that issue again which did not take anywhere
+        near as long as it took last week. I then pushed the branch to github, that task is complete. I then went back to the Our Expertise task. I added a 'react-router-dom'
+        to the json package. I then begun writeing code for the Our Expertise page, the code I wrote is just importing. I did not write much because I was trying to
+        figure out how to add a react router, and what exactly it is. That is what I spent my day on. 
 
     </div>
   );
