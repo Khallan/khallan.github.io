@@ -160,9 +160,15 @@ function Internshiplogs() {
         near as long as it took last week. I then pushed the branch to github, that task is complete. I then went back to the Our Expertise task. I added a 'react-router-dom'
         to the json package. I then begun writeing code for the Our Expertise page, the code I wrote is just importing. I did not write much because I was trying to
         figure out how to add a react router, and what exactly it is. That is what I spent my day on. 
+        <br />
+        <br />
+        <b>November 8</b>
+        We begun the dat with a standup meeting, we talked about PR and my 'update-address' PR and said that I edited multiple files instead of just one. I then
+        fixed the issue, it took a while becuase I changed alot more than I thought, especially in 'yarn.lock'. Once I fixed all those changes I went back to 
+        the 'our-expertise-branch' and then began to read and follow a react router tutorial. I then wrote this and ended my day.
 
     </div>
   );
 }
-
+ 
 export default Internshiplogs;
