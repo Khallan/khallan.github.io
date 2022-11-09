@@ -163,10 +163,19 @@ function Internshiplogs() {
         <br />
         <br />
         <b>November 8</b>
+        <br />
         We begun the dat with a standup meeting, we talked about PR and my 'update-address' PR and said that I edited multiple files instead of just one. I then
         fixed the issue, it took a while becuase I changed alot more than I thought, especially in 'yarn.lock'. Once I fixed all those changes I went back to 
         the 'our-expertise-branch' and then began to read and follow a react router tutorial. I then wrote this and ended my day.
-
+        <br />
+        <br />
+        <b>November 9</b>
+        <br />
+        I continued form yesterday the website tutorial I was following, I added a react router to the website, I added a react router import to the app, I also added router tags.
+        I then started a local host and realized that is was all wrong I spent along trying to solve the issue but I ended up creating more issues that I reverted 
+        all my changes back to the original errors, I restated then ran out of time. I have done alot of stuff today but nothing concrete, most things I had to delete, hopfully 
+        I will be able to make some actual working code tomorrow.
+        sure. 
     </div>
   );
 }
