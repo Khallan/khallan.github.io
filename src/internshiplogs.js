@@ -169,13 +169,23 @@ function Internshiplogs() {
         the 'our-expertise-branch' and then began to read and follow a react router tutorial. I then wrote this and ended my day.
         <br />
         <br />
-        <b>November 9</b>
+        <b>November 9</b>                                                                                                             THIS IS CODE
         <br />
-        I continued form yesterday the website tutorial I was following, I added a react router to the website, I added a react router import to the app, I also added router tags.
+        I continued from yesterday the website tutorial I was following, I added a react router to the website, I added a react router import to the app, I also added router tags.
         I then started a local host and realized that is was all wrong I spent along trying to solve the issue but I ended up creating more issues that I reverted 
         all my changes back to the original errors, I restated then ran out of time. I have done alot of stuff today but nothing concrete, most things I had to delete, hopfully 
         I will be able to make some actual working code tomorrow.
         sure. 
+        <br />
+        <br />
+        <b>November 10</b>
+        <br />
+        I started the day fixing previous mistakes I could not fix from yesterday, I had a few outstanding errors that took me a little longer than
+        it should have to fix, nonetheless I solved the issues. I then begun trying to add react router to your website, but before I could manage to get any work
+        done, we had a quick meeting. We talked about how it would be better to create a fresh react router on a blank project then add it later. You also helped 
+        me create the react project which helped me a ton. I then begun following your instructions on Discord on what to do. Once I realized I was in the wrong
+        test router project file I started again in the correct one, which did not take up to much time. I then went back to the tutorial and followed steps.
+        the steps are much more straight forward when you start on a fresh react app. I then wrote my internship log and ended the day.
     </div>
   );
 }
