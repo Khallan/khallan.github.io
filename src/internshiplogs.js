@@ -169,7 +169,7 @@ function Internshiplogs() {
         the 'our-expertise-branch' and then began to read and follow a react router tutorial. I then wrote this and ended my day.
         <br />
         <br />
-        <b>November 9</b>                                                                                                             THIS IS CODE
+        <b>November 9</b>
         <br />
         I continued from yesterday the website tutorial I was following, I added a react router to the website, I added a react router import to the app, I also added router tags.
         I then started a local host and realized that is was all wrong I spent along trying to solve the issue but I ended up creating more issues that I reverted 
@@ -186,6 +186,16 @@ function Internshiplogs() {
         me create the react project which helped me a ton. I then begun following your instructions on Discord on what to do. Once I realized I was in the wrong
         test router project file I started again in the correct one, which did not take up to much time. I then went back to the tutorial and followed steps.
         the steps are much more straight forward when you start on a fresh react app. I then wrote my internship log and ended the day.
+        <br />
+        <br />
+        <b>November 11</b>
+        <br />
+        Today I continued with the tutorial from yesterday. As I followed along, there were a few kinks that I came across, most notable, one of the changes it 
+        asked me to make to the code does not work anymore with JavaScript, or so I think I could have missed somthing prior but the code still did what it needed
+        to do. As I followed the tutorial I made many different pages, such as an error page that shows whenever you click on something that isn't there. I want to 
+        add that to my website, when I can. I have gotten through alot of the tutorial but there is alot more, it took me longer to follow the tutorial because I 
+        wanted to read over the code to try to figure out what it does, I thinking reading the code helps me for the future by giving me somthing to refernce. All
+        in all, I think today was a very productive day compared to the last few days. 
     </div>
   );
 }
