@@ -7,8 +7,14 @@ html, body, div {
     text-align: center;
 }
 
+.MainElementPadding{
+    padding-top: 1cm;
+    padding-bottom: 1cm;
+    padding-left: 1cm;
+    padding-right: 1cm;
+}
 nav{
-    background: linear-gradient(90deg, rgb(110, 94, 254) 0% , rgb(67, 201, 156) 100%);
+    background: linear-gradient(90deg, rgb(53, 53, 53) 0% , rgb(13, 13, 13) 100%);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -18,6 +24,7 @@ nav{
     grid-gap: 10px;
     grid-template-columns: repeat(5, auto);
     border-top: none;
+    text-decoration: none;
 
 }
 .nav-links{
@@ -29,8 +36,37 @@ nav{
     float: right;
     text-decoration: none;
 }
-.nav-links:hover{
-    background-color: #7ecc6ab1;
-    border-radius: 4rem;
+.nav-link:hover{
+    background-color: #767676b1;
+    border-radius: 10px;
     transition: all 0.3s ease-in-out;
+}
+
+.about-me-header{
+    font-size: 1.1cm;
+}
+
+.pfp{
+    padding-top: 0.5cm;
+    margin-left: 1cm;
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+    object-fit: cover;
+}
+
+.resume {
+    height: 750px;
+    width: 500px;
+    object-fit: cover;
+}
+
+.About-Header{
+    font-size: xx-large;
+}
+
+.Resume-Blurb {
+    font-size: 30px;
+    float: right;
+    padding-right: 300px;
 }
