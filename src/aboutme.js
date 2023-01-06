@@ -10,14 +10,13 @@ function Aboutme() {
                 <h1 className='About-Header'> Some of my previous work... </h1>
                 <li>Software Engineer Intern at North P&D </li>
                 <li>Programming Languages: Javascript, Java, HTML and CSS programming</li>
-                <li>Tutoring young children in Mathematics and Science</li>
+                <li>Tutoring children in Mathematics and Science</li>
                 <li>Punctual, Confident</li>
                 <li>Languages: Limited French</li>
                 <br />
                 If you would like to see my full resume click <i>Resume</i> at the top of the screen
                 
             </div>
-            {/* <img src={KJResume} className='resume' /> */}
         </div>
     );
 }

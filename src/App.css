@@ -1,4 +1,6 @@
-html, body, div {
+html,
+body,
+div {
     margin: 0;
     padding: 0;
 }
@@ -7,28 +9,29 @@ html, body, div {
     text-align: center;
 }
 
-.MainElementPadding{
+.MainElement {
     padding-top: 1cm;
     padding-bottom: 1cm;
     padding-left: 1cm;
     padding-right: 1cm;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
-nav{
-    background: linear-gradient(90deg, rgb(53, 53, 53) 0% , rgb(13, 13, 13) 100%);
+
+nav {
+    background: linear-gradient(90deg, rgb(53, 53, 53) 0%, rgb(13, 13, 13) 100%);
     display: flex;
     justify-content: space-around;
     align-items: center;
     min-height: 10vh;
-    color: white; 
+    color: white;
     margin: 0vw;
-    grid-gap: 10px;
     grid-template-columns: repeat(5, auto);
     border-top: none;
     text-decoration: none;
 
 }
-.nav-links{
-    width: 40%;
+
+.nav-links {
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -36,17 +39,18 @@ nav{
     float: right;
     text-decoration: none;
 }
-.nav-link:hover{
+
+.nav-link:hover {
     background-color: #767676b1;
     border-radius: 10px;
     transition: all 0.3s ease-in-out;
 }
 
-.about-me-header{
+.about-me-header {
     font-size: 1.1cm;
 }
 
-.pfp{
+.pfp {
     padding-top: 0.5cm;
     margin-left: 1cm;
     width: 300px;
@@ -61,12 +65,38 @@ nav{
     object-fit: cover;
 }
 
-.About-Header{
+.About-Header {
     font-size: xx-large;
 }
 
 .Resume-Blurb {
     font-size: 30px;
     float: right;
-    padding-right: 300px;
+    padding-right: 125px;
+}
+
+.video-description {
+    float: left;
+    margin-top: 0.2cm;
+    margin-right: 8.5cm;
+}
+
+.career-list-header {
+    max-width: 12cm;
+    font-size: large;
+}
+
+
+.home-TS {
+    width: 26cm;
+    height: 7.5cm;
+    padding-left: 12.5cm;
+    display: flex;
+    padding-bottom: 10cm;
+}
+
+.certs{
+    max-width: 15cm;
+    font-size: x-large;
+    padding-right: 8cm;
 }

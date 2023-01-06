@@ -11,18 +11,33 @@ function Nav() {
     <nav>
       <h1>Khallan Jamal</h1>
       <div className='nav-link'>
-        <Link style={navStyle} to='/app'>
+        <Link style={navStyle} to='/aboutme'>
           <div>Home</div>
         </Link>
-      </div>
+      </div>      
       <div className='nav-link'>
-        <Link style={navStyle} to='/aboutme'>
-          <div>Aboutme</div>
+        <Link style={navStyle} to='/home'>
+          <div>Career Portfolio</div>
         </Link>
       </div>
       <div className='nav-link'>
         <Link style={navStyle} to='/resume'>
           <div>Resume</div>
+        </Link>
+      </div>
+      <div className='nav-links'>
+        <Link style={navStyle} to='/Achievements'>
+          <div>Academic Achievements</div>
+        </Link>
+      </div>
+      <div className='nav-links'>
+        <Link style={navStyle} to='/Involvment'>
+          <div>Involvment</div>
+        </Link>
+      </div>
+      <div className='nav-links'>
+        <Link style={navStyle} to ='/Promo'>
+          <div>Promo Video</div>
         </Link>
       </div>
       {/* <div className='nav-link'>
