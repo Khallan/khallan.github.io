@@ -59,11 +59,11 @@ nav {
     object-fit: cover;
 }
 
-.resume {
+/* .resume {
     height: 750px;
-    width: 500px;
+    width: 400px;
     object-fit: cover;
-}
+} */
 
 .About-Header {
     font-size: xx-large;
@@ -82,21 +82,41 @@ nav {
 }
 
 .career-list-header {
-    max-width: 12cm;
+    /* max-width: 12cm; */
     font-size: large;
 }
-
 
 .home-TS {
     width: 26cm;
     height: 7.5cm;
-    padding-left: 12.5cm;
     display: flex;
-    padding-bottom: 10cm;
 }
 
+.home-TScode{
+    width: 26cm;
+    height: 15cm;
+}
+
+.home-sample{
+
+}
+
+.home-term{
+    width: 20cm;
+    height: 15cm;
+}
+
+.home-reactphoto{
+    width: 26cm;
+    height: 15cm;
+}
 .certs{
     max-width: 15cm;
     font-size: x-large;
     padding-right: 8cm;
+}
+
+.resume-header{
+    padding-left: 11cm;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }

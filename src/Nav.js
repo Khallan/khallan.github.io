@@ -30,11 +30,11 @@ function Nav() {
           <div>Academic Achievements</div>
         </Link>
       </div>
-      <div className='nav-links'>
+      {/* <div className='nav-links'>
         <Link style={navStyle} to='/Involvment'>
           <div>Involvment</div>
         </Link>
-      </div>
+      </div> */}
       <div className='nav-links'>
         <Link style={navStyle} to ='/Promo'>
           <div>Promo Video</div>
